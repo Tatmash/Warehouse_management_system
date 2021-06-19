@@ -14,7 +14,7 @@ An immutable class with very simple objects. Article objets have only a name and
 
 ## What was I required to do?
 
-I was required to write a class Warehouse. Its instances can store and
-provide information about instances of a class Article, which has already been written.
+I was required to write a class, "Warehouse". It's instances can store and
+provide information about instances of a class "Article", which has already been written.
 A Warehouse object can tell us, e.g., the average price of its current articles,
-the number of current articles, and so on. The specifics of the requirements are describen in the documentation.
+the number of current articles, and so on. The specifics of the requirements are described in the documentation.
